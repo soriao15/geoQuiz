@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="question_omar">My first name is Omar.</string>
+    <string name="question_wolves">I like wolves.</string>
+    <string name="question_avalanche">In 1926, Arctic explorer Peter Freuchen was trapped under an avalanche while on an expeditio.</string>
+    <string name="question_fruit">Cashews do not come from a fruit.</string>
+    <string name="question_frog">Frogs are reptiles.</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+
+</resources>
